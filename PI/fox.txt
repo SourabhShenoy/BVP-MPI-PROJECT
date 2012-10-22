@@ -1,0 +1,37 @@
+Enter the number of intervals: (0 quits) pi is approximately 3.2000000000000002, Error is 0.0584073464102071
+wall clock time = 0.000071
+Enter the number of intervals: (0 quits) pi is approximately 3.1449258640033282, Error is 0.0033332104135351
+wall clock time = 0.000032
+Enter the number of intervals: (0 quits) pi is approximately 3.1424259850010983, Error is 0.0008333314113051
+wall clock time = 0.000032
+Enter the number of intervals: (0 quits) pi is approximately 3.1416259869230028, Error is 0.0000333333332097
+wall clock time = 0.000034
+Enter the number of intervals: (0 quits) pi is approximately 3.1416009869231254, Error is 0.0000083333333323
+wall clock time = 0.000035
+Enter the number of intervals: (0 quits) pi is approximately 3.1415929869231287, Error is 0.0000003333333356
+wall clock time = 0.000053
+Enter the number of intervals: (0 quits) pi is approximately 3.1415927369231227, Error is 0.0000000833333296
+wall clock time = 0.000075
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926569231218, Error is 0.0000000033333287
+wall clock time = 0.000242
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926544231341, Error is 0.0000000008333410
+wall clock time = 0.000712
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926536231193, Error is 0.0000000000333262
+wall clock time = 0.002441
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535981606, Error is 0.0000000000083675
+wall clock time = 0.007281
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535901018, Error is 0.0000000000003086
+wall clock time = 0.025421
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535897287, Error is 0.0000000000000644
+wall clock time = 0.302233
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535895271, Error is 0.0000000000002660
+wall clock time = 1.480813
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535902345, Error is 0.0000000000004414
+wall clock time = 2.965722
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535903078, Error is 0.0000000000005147
+wall clock time = 14.789750
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926535921401, Error is 0.0000000000023470
+wall clock time = 29.552556
+Enter the number of intervals: (0 quits) pi is approximately 3.1415926536020886, Error is 0.0000000000122955
+wall clock time = 58.457433
+Enter the number of intervals: (0 quits) 
